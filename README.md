@@ -9,7 +9,6 @@ Thème : Créer un jeu de simulation - [Vidéo YouTube](https://www.youtube.com/
 - Volko76
 - Valmontechno
 - Natof
-- Xernas
 - Adam_hrm
 - amo le dev
 - ImGogole

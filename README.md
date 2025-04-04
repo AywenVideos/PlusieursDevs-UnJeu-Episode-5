@@ -1,4 +1,4 @@
-![Header](https://i.ibb.co/jh9mS0Q/github-header-image.png)
+![Header](https://i.ibb.co/hRMZ6LVt/Banni-re-PD1-J.png)
 
 Un jeu développé par plusieurs volontaires qui n'ont pas pu se parler pendant le développement.
 
@@ -9,7 +9,6 @@ Thème : Créer un jeu de simulation - [Vidéo YouTube](https://www.youtube.com/
 - Volko76
 - Valmontechno
 - Natof
-- Xernas
 - Adam_hrm
 - amo le dev
 - ImGogole
